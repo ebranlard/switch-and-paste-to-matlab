@@ -5,7 +5,7 @@ This was implemented to be able to use [vim-matlab-behave](https://github.com/el
 
 
 ## Binaries
-The latest binary is available [here](https://github.com/elmanuelito/swith-and-paster-to-matlab/raw/master/SwitchAndPasteToMatlab.exe)
+The latest binary is available [here](https://github.com/elmanuelito/swith-and-paste-to-matlab/raw/master/SwitchAndPasteToMatlab.exe)
 
 ## Features/ usage
         
